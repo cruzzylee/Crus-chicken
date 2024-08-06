@@ -1,0 +1,9 @@
+h1{
+    color: purple;
+}
+tr td {
+    color:brown ;
+}
+.aclass:hover {
+    color: red;
+}
